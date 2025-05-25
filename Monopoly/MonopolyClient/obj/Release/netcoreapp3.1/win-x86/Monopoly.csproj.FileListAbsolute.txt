@@ -1,0 +1,9 @@
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Release\netcoreapp3.1\win-x86\Monopoly.deps.json
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Release\netcoreapp3.1\win-x86\Monopoly.runtimeconfig.json
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Release\netcoreapp3.1\win-x86\Monopoly.runtimeconfig.dev.json
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Release\netcoreapp3.1\win-x86\Monopoly.AssemblyInfoInputs.cache
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Release\netcoreapp3.1\win-x86\Monopoly.AssemblyInfo.cs
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Release\netcoreapp3.1\win-x86\Monopoly.csproj.CoreCompileInputs.cache
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Release\netcoreapp3.1\win-x86\Monopoly.genruntimeconfig.cache
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Release\netcoreapp3.1\win-x86\Monopoly.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Release\netcoreapp3.1\win-x86\Monopoly.pdb

@@ -1,0 +1,2 @@
+D:\Bakalarka\Vygenerovaná aplikace\Server\MonopolyServer.pdb
+D:\Bakalarka\Vygenerovaná aplikace\Server\MonopolyServer.exe

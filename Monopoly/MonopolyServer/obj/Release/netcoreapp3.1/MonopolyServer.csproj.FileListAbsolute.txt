@@ -1,0 +1,103 @@
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.exe
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.deps.json
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.runtimeconfig.json
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.pdb
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.pdb
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.genruntimeconfig.cache
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.exe
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.deps.json
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.runtimeconfig.json
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.runtimeconfig.dev.json
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.pdb
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MySql.Data.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.AssemblyReference.cache
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.AssemblyInfoInputs.cache
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.AssemblyInfo.cs
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.CoreCompileInputs.cache
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.CopyComplete
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.dll
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.pdb
+D:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.genruntimeconfig.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.exe
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.deps.json
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.runtimeconfig.json
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.runtimeconfig.dev.json
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MonopolyServer.pdb
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\MySql.Data.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.AssemblyReference.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.AssemblyInfoInputs.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.AssemblyInfo.cs
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.CoreCompileInputs.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.csproj.CopyComplete
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.pdb
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Release\netcoreapp3.1\MonopolyServer.genruntimeconfig.cache

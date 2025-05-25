@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/BlackDice/dice_1.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/BlackDice/dice_2.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/BlackDice/dice_3.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/BlackDice/dice_4.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/BlackDice/dice_5.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/BlackDice/dice_6.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Board/monopolyBoard.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/defaultFont.spritefont</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Figures/blue.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Figures/green.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Figures/red.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Figures/yellow.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/File.spritefont</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Fonts/ComicSansMS.spritefont</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/moneyFont.spritefont</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/myFont.spritefont</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/Players/template.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/WhiteDice/dice_1.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/WhiteDice/dice_2.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/WhiteDice/dice_3.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/WhiteDice/dice_4.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/WhiteDice/dice_5.png</File>
+    <File>D:/Bakalarka/CD/Projekt/Monopoly/Content/WhiteDice/dice_6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

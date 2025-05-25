@@ -1,0 +1,383 @@
+27.03.2022 10:48:12; login; user; time: 511
+27.03.2022 10:48:13; rooms; room; time: 251
+27.03.2022 10:48:15; createRoom; room; time: 263
+27.03.2022 10:48:16; updateLobby; specificLobby; time: 151
+27.03.2022 10:48:16; getSpecificLobbyByPlayer; specificLobby; time: 47
+specificLobby; time: 0
+27.03.2022 11:00:51; login; user; time: 295
+27.03.2022 11:00:55; rooms; room; time: 377
+27.03.2022 11:00:58; createRoom; room; time: 183
+27.03.2022 11:00:58; updateLobby; specificLobby; time: 145
+27.03.2022 11:00:58; getSpecificLobbyByPlayer; specificLobby; time: 5
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:01:45; message; message; time: 190
+message; time: 0
+message; time: 0
+27.03.2022 11:02:10; message; message; time: 175
+message; time: 0
+27.03.2022 11:03:07; message; message; time: 267
+27.03.2022 11:03:25; message; message; time: 289
+27.03.2022 11:03:52; message; message; time: 171
+message; time: 0
+message; time: 0
+27.03.2022 11:04:56; message; message; time: 161
+27.03.2022 11:05:13; message; message; time: 195
+27.03.2022 11:05:16; message; message; time: 189
+27.03.2022 11:05:20; message; message; time: 242
+27.03.2022 11:05:37; getSpecificLobbyByPlayer; specificLobby; time: 159
+27.03.2022 11:05:37; launchGame; room; time: 188
+27.03.2022 11:06:02; message; message; time: 197
+27.03.2022 11:06:35; playerMove; received; time: 265
+27.03.2022 11:06:39; playerLandedState; received; time: 232
+27.03.2022 11:06:40; endTurn; received; time: 233
+27.03.2022 11:06:43; buyStreet; received; time: 170
+27.03.2022 11:06:43; endBuy; received; time: 173
+27.03.2022 11:08:35; message; message; time: 202
+27.03.2022 11:08:49; message; message; time: 168
+27.03.2022 11:09:11; message; message; time: 253
+27.03.2022 11:09:50; message; message; time: 218
+27.03.2022 11:10:14; leaveFromGame; received; time: 99
+27.03.2022 11:10:15; rooms; room; time: 99
+27.03.2022 11:10:17; joinRoom; room; time: 155
+27.03.2022 11:10:17; getSpecificLobbyByPlayer; specificLobby; time: 151
+27.03.2022 11:12:42; login; user; time: 246
+27.03.2022 11:12:44; rooms; room; time: 189
+27.03.2022 11:12:46; createRoom; room; time: 79
+27.03.2022 11:12:46; updateLobby; specificLobby; time: 93
+27.03.2022 11:12:46; getSpecificLobbyByPlayer; specificLobby; time: 12
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:15:13; message; message; time: 213
+27.03.2022 11:15:43; message; message; time: 206
+27.03.2022 11:15:45; getSpecificLobbyByPlayer; specificLobby; time: 158
+27.03.2022 11:15:45; launchGame; room; time: 126
+27.03.2022 11:15:50; playerMove; received; time: 273
+27.03.2022 11:15:52; playerLandedState; received; time: 127
+27.03.2022 11:15:52; endTurn; received; time: 121
+27.03.2022 11:16:00; message; message; time: 211
+message; time: 0
+27.03.2022 11:19:14; login; user; time: 384
+27.03.2022 11:19:16; rooms; room; time: 179
+27.03.2022 11:19:18; createRoom; room; time: 176
+27.03.2022 11:19:18; updateLobby; specificLobby; time: 236
+specificLobby; time: 0
+27.03.2022 11:19:18; getSpecificLobbyByPlayer; specificLobby; time: 210
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:21:04; removePlFmL; room; time: 122
+27.03.2022 11:21:15; createRoom; room; time: 221
+27.03.2022 11:21:15; updateLobby; specificLobby; time: 0
+27.03.2022 11:21:15; getSpecificLobbyByPlayer; specificLobby; time: 61
+specificLobby; time: 0
+27.03.2022 11:22:50; login; user; time: 376
+27.03.2022 11:22:52; rooms; room; time: 115
+27.03.2022 11:22:54; createRoom; room; time: 116
+27.03.2022 11:22:54; updateLobby; specificLobby; time: 151
+27.03.2022 11:22:54; getSpecificLobbyByPlayer; specificLobby; time: 4
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:24:24; getSpecificLobbyByPlayer; specificLobby; time: 89
+27.03.2022 11:24:25; launchGame; room; time: 223
+27.03.2022 11:24:28; playerMove; received; time: 123
+27.03.2022 11:24:32; playerLandedState; received; time: 173
+27.03.2022 11:24:34; buyStreet; received; time: 251
+27.03.2022 11:24:34; endBuy; received; time: 167
+27.03.2022 11:24:34; endTurn; received; time: 161
+27.03.2022 11:27:34; leaveFromGame; received; time: 153
+27.03.2022 11:27:36; rooms; room; time: 161
+27.03.2022 11:27:46; createRoom; room; time: 183
+27.03.2022 11:27:46; updateLobby; specificLobby; time: 0
+27.03.2022 11:27:46; getSpecificLobbyByPlayer; specificLobby; time: 3
+specificLobby; time: 0
+27.03.2022 11:41:26; login; user; time: 275
+27.03.2022 11:41:35; rooms; room; time: 163
+27.03.2022 11:41:38; createRoom; room; time: 238
+27.03.2022 11:41:38; updateLobby; specificLobby; time: 149
+27.03.2022 11:41:39; getSpecificLobbyByPlayer; specificLobby; time: 51
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:42:35; getSpecificLobbyByPlayer; specificLobby; time: 135
+27.03.2022 11:42:35; launchGame; room; time: 140
+27.03.2022 11:42:40; playerMove; received; time: 256
+27.03.2022 11:42:43; playerLandedState; received; time: 167
+27.03.2022 11:42:46; buyStreet; received; time: 255
+27.03.2022 11:42:46; endBuy; received; time: 0
+27.03.2022 11:42:46; endTurn; received; time: 121
+27.03.2022 11:43:54; login; user; time: 183
+27.03.2022 11:43:55; rooms; room; time: 132
+27.03.2022 11:43:57; joinRoom; room; time: 131
+27.03.2022 11:43:57; getSpecificLobbyByPlayer; specificLobby; time: 210
+27.03.2022 11:44:03; leaveFromGame; received; time: 111
+27.03.2022 11:44:04; removePL; received; time: 263
+27.03.2022 11:44:22; login; user; time: 233
+27.03.2022 11:44:24; rooms; room; time: 192
+27.03.2022 11:45:15; createRoom; room; time: 133
+27.03.2022 11:45:15; updateLobby; specificLobby; time: 212
+27.03.2022 11:45:15; getSpecificLobbyByPlayer; specificLobby; time: 93
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:46:30; getSpecificLobbyByPlayer; specificLobby; time: 155
+27.03.2022 11:46:30; launchGame; room; time: 128
+27.03.2022 11:46:36; playerMove; received; time: 189
+27.03.2022 11:46:37; playerLandedState; received; time: 124
+27.03.2022 11:46:38; buyStreet; received; time: 185
+27.03.2022 11:46:39; endBuy; received; time: 0
+27.03.2022 11:46:39; endTurn; received; time: 136
+27.03.2022 11:47:04; playerMove; received; time: 185
+27.03.2022 11:47:06; playerLandedState; received; time: 147
+27.03.2022 11:47:06; endTurn; received; time: 129
+27.03.2022 11:47:10; buyStreet; received; time: 0
+received; time: 0
+27.03.2022 11:48:25; leaveFromGame; received; time: 175
+27.03.2022 11:49:29; login; user; time: 250
+27.03.2022 11:49:30; rooms; room; time: 186
+27.03.2022 11:49:32; joinRoom; room; time: 82
+27.03.2022 11:49:32; getSpecificLobbyByPlayer; specificLobby; time: 122
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 11:49:55; playerMove; received; time: 152
+27.03.2022 11:49:57; playerLandedState; received; time: 90
+27.03.2022 11:49:57; endTurn; received; time: 111
+27.03.2022 11:50:22; playerMove; received; time: 112
+27.03.2022 11:50:25; playerLandedState; received; time: 162
+27.03.2022 11:50:25; endTurn; received; time: 132
+27.03.2022 11:50:27; buyStreet; received; time: 127
+27.03.2022 11:50:27; endBuy; received; time: 117
+27.03.2022 11:51:16; message; message; time: 143
+27.03.2022 11:51:34; leaveFromGame; received; time: 166
+27.03.2022 11:51:36; rooms; room; time: 180
+27.03.2022 11:51:42; createRoom; room; time: 231
+27.03.2022 11:51:43; updateLobby; specificLobby; time: 125
+specificLobby; time: 0
+27.03.2022 11:51:43; getSpecificLobbyByPlayer; specificLobby; time: 200
+specificLobby; time: 0
+27.03.2022 11:51:55; removePL; received; time: 160
+27.03.2022 11:52:27; login; user; time: 172
+27.03.2022 11:52:34; login; user; time: 251
+27.03.2022 11:52:35; rooms; room; time: 154
+27.03.2022 11:52:38; joinRoom; room; time: 160
+27.03.2022 11:52:38; getSpecificLobbyByPlayer; specificLobby; time: 159
+27.03.2022 11:52:42; message; message; time: 170
+27.03.2022 11:53:52; getSpecificLobbyByPlayer; specificLobby; time: 151
+27.03.2022 11:53:52; launchGame; room; time: 195
+27.03.2022 11:53:58; playerMove; received; time: 155
+27.03.2022 11:54:01; playerLandedState; received; time: 151
+27.03.2022 11:54:02; buyStreet; received; time: 110
+27.03.2022 11:54:02; endBuy; received; time: 0
+27.03.2022 11:54:02; endTurn; received; time: 154
+27.03.2022 11:56:24; leaveFromGame; received; time: 4172
+27.03.2022 11:56:36; rooms; room; time: 122
+27.03.2022 11:59:24; removePL; received; time: 241
+27.03.2022 12:01:52; login; user; time: 915
+27.03.2022 12:03:00; rooms; room; time: 392
+27.03.2022 12:03:02; createRoom; room; time: 299
+27.03.2022 12:03:02; updateLobby; specificLobby; time: 282
+specificLobby; time: 0
+27.03.2022 12:03:03; getSpecificLobbyByPlayer; specificLobby; time: 210
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 12:05:25; getSpecificLobbyByPlayer; specificLobby; time: 48
+27.03.2022 12:05:25; launchGame; room; time: 196
+27.03.2022 12:05:27; playerMove; received; time: 98
+27.03.2022 12:05:29; playerLandedState; received; time: 200
+27.03.2022 12:05:29; endTurn; received; time: 242
+27.03.2022 12:05:43; playerMove; received; time: 160
+27.03.2022 12:05:47; playerLandedState; received; time: 156
+27.03.2022 12:05:47; endTurn; received; time: 282
+27.03.2022 12:05:48; buyStreet; received; time: 77
+27.03.2022 12:05:48; endBuy; received; time: 216
+27.03.2022 12:06:13; playerMove; received; time: 194
+27.03.2022 12:06:16; playerLandedState; received; time: 289
+27.03.2022 12:06:16; endTurn; received; time: 235
+27.03.2022 12:06:18; buyStreet; received; time: 0
+27.03.2022 12:06:18; endBuy; received; time: 0
+27.03.2022 12:07:14; leaveFromGame; received; time: 246
+27.03.2022 12:07:16; removePL; received; time: 322
+27.03.2022 12:08:00; login; user; time: 336
+27.03.2022 12:08:01; removePL; received; time: 415
+27.03.2022 12:09:54; removePL; received; time: 187
+27.03.2022 12:22:41; login; user; time: 174
+27.03.2022 12:22:42; rooms; room; time: 352
+27.03.2022 12:22:44; createRoom; room; time: 183
+27.03.2022 12:22:44; updateLobby; specificLobby; time: 238
+27.03.2022 12:22:45; getSpecificLobbyByPlayer; specificLobby; time: 77
+specificLobby; time: 0
+specificLobby; time: 0
+27.03.2022 12:23:10; message; message; time: 242
+27.03.2022 12:24:10; getSpecificLobbyByPlayer; specificLobby; time: 89
+27.03.2022 12:24:10; launchGame; room; time: 201
+27.03.2022 12:24:12; playerMove; received; time: 102
+27.03.2022 12:24:14; playerLandedState; received; time: 351
+27.03.2022 12:24:17; buyStreet; received; time: 233
+27.03.2022 12:24:17; endBuy; received; time: 0
+27.03.2022 12:24:17; endTurn; received; time: 255
+27.03.2022 12:24:23; playerMove; received; time: 228
+27.03.2022 12:24:25; playerLandedState; received; time: 148
+27.03.2022 12:24:25; endTurn; received; time: 230
+27.03.2022 12:24:27; buyStreet; received; time: 0
+received; time: 0
+27.03.2022 12:24:33; playerMove; received; time: 270
+27.03.2022 12:24:36; playerLandedState; received; time: 173
+27.03.2022 12:24:36; endTurn; received; time: 195
+27.03.2022 12:24:37; buyStreet; received; time: 0
+received; time: 0
+27.03.2022 12:25:23; leaveFromGame; received; time: 269
+27.03.2022 12:25:27; removePL; received; time: 279
+27.03.2022 12:51:44; login; user; time: 1655
+27.03.2022 12:51:47; rooms; room; time: 70
+27.03.2022 12:51:50; createRoom; room; time: 47
+27.03.2022 12:51:50; updateLobby; specificLobby; time: 29
+specificLobby; time: 0
+27.03.2022 12:51:50; getSpecificLobbyByPlayer; specificLobby; time: 22
+specificLobby; time: 0
+27.03.2022 12:53:37; getSpecificLobbyByPlayer; specificLobby; time: 21
+27.03.2022 12:53:37; launchGame; room; time: 93
+27.03.2022 12:53:38; playerMove; received; time: 24
+27.03.2022 12:53:41; playerLandedState; received; time: 26
+27.03.2022 12:53:42; buyStreet; 27.03.2022 12:53:43; endBuy; received; time: 155
+27.03.2022 12:53:43; endTurn; received; time: 47
+27.03.2022 12:53:48; removePL; received; time: 20
+27.03.2022 12:58:36; login; user; time: 1254
+27.03.2022 12:58:38; rooms; room; time: 69
+27.03.2022 12:58:40; createRoom; room; time: 47
+27.03.2022 12:58:40; updateLobby; specificLobby; time: 19
+specificLobby; time: 0
+27.03.2022 12:58:40; getSpecificLobbyByPlayer; specificLobby; time: 31
+specificLobby; time: 0
+27.03.2022 12:59:02; getSpecificLobbyByPlayer; specificLobby; time: 28
+27.03.2022 12:59:02; launchGame; room; time: 85
+27.03.2022 12:59:21; removePL; received; time: 159
+27.03.2022 13:10:07; login; user; time: 1226
+27.03.2022 13:10:10; rooms; room; time: 93
+27.03.2022 13:10:12; createRoom; room; time: 59
+27.03.2022 13:10:12; updateLobby; specificLobby; time: 23
+specificLobby; time: 0
+27.03.2022 13:10:12; getSpecificLobbyByPlayer; specificLobby; time: 22
+specificLobby; time: 0
+27.03.2022 13:10:41; getSpecificLobbyByPlayer; specificLobby; time: 19
+27.03.2022 13:10:41; launchGame; room; time: 78
+27.03.2022 13:10:44; playerMove; received; time: 36
+27.03.2022 13:10:47; playerLandedState; received; time: 24
+27.03.2022 13:10:49; buyStreet; received; time: 478
+27.03.2022 13:10:49; endBuy; received; time: 0
+27.03.2022 13:10:49; endTurn; received; time: 70
+27.03.2022 13:10:54; removePL; received; time: 67
+27.03.2022 13:20:11; login; user; time: 1040
+27.03.2022 13:20:13; rooms; room; time: 67
+27.03.2022 13:20:16; createRoom; room; time: 56
+27.03.2022 13:20:16; updateLobby; specificLobby; time: 23
+specificLobby; time: 0
+27.03.2022 13:20:16; getSpecificLobbyByPlayer; specificLobby; time: 18
+specificLobby; time: 0
+27.03.2022 13:20:39; getSpecificLobbyByPlayer; specificLobby; time: 21
+27.03.2022 13:20:39; launchGame; room; time: 105
+27.03.2022 13:20:41; playerMove; received; time: 15
+27.03.2022 13:20:43; playerLandedState; received; time: 40
+27.03.2022 13:20:44; buyStreet; 27.03.2022 13:23:40; login; user; time: 989
+27.03.2022 13:23:42; rooms; room; time: 67
+27.03.2022 13:23:45; createRoom; room; time: 74
+27.03.2022 13:23:45; updateLobby; specificLobby; time: 26
+specificLobby; time: 0
+27.03.2022 13:23:45; getSpecificLobbyByPlayer; specificLobby; time: 22
+specificLobby; time: 0
+27.03.2022 13:24:04; getSpecificLobbyByPlayer; specificLobby; time: 13
+27.03.2022 13:24:04; launchGame; room; time: 117
+27.03.2022 13:24:05; playerMove; received; time: 29
+27.03.2022 13:24:07; playerLandedState; received; time: 33
+27.03.2022 13:24:09; buyStreet; received; time: 0
+27.03.2022 13:24:09; endBuy; received; time: 0
+27.03.2022 13:24:09; endTurn; received; time: 26
+27.03.2022 13:24:15; playerMove; received; time: 44
+27.03.2022 13:24:18; playerLandedState; received; time: 30
+27.03.2022 13:24:18; endTurn; received; time: 17
+27.03.2022 13:24:20; buyStreet; 27.03.2022 13:26:36; login; user; time: 1151
+27.03.2022 13:26:39; rooms; room; time: 65
+27.03.2022 13:26:42; createRoom; room; time: 58
+27.03.2022 13:26:42; updateLobby; specificLobby; time: 31
+specificLobby; time: 0
+27.03.2022 13:26:42; getSpecificLobbyByPlayer; specificLobby; time: 33
+specificLobby; time: 0
+27.03.2022 13:27:18; getSpecificLobbyByPlayer; specificLobby; time: 5
+27.03.2022 13:27:18; launchGame; room; time: 89
+27.03.2022 13:27:20; playerMove; received; time: 41
+27.03.2022 13:27:20; playerLandedState; received; time: 43
+27.03.2022 13:27:20; endTurn; received; time: 31
+27.03.2022 13:27:29; playerMove; received; time: 31
+27.03.2022 13:27:31; playerLandedState; received; time: 22
+27.03.2022 13:27:31; endTurn; received; time: 14
+27.03.2022 13:27:32; buyStreet; 27.03.2022 13:32:49; login; user; time: 1133
+27.03.2022 13:32:51; rooms; room; time: 118
+27.03.2022 13:32:53; createRoom; room; time: 83
+27.03.2022 13:32:53; updateLobby; specificLobby; time: 28
+specificLobby; time: 0
+27.03.2022 13:32:53; getSpecificLobbyByPlayer; specificLobby; time: 22
+specificLobby; time: 0
+27.03.2022 13:33:17; getSpecificLobbyByPlayer; specificLobby; time: 23
+27.03.2022 13:33:17; launchGame; room; time: 79
+27.03.2022 13:33:18; playerMove; received; time: 22
+27.03.2022 13:33:21; playerLandedState; received; time: 46
+27.03.2022 13:33:22; buyStreet; received; time: 392
+27.03.2022 13:33:23; endBuy; received; time: 0
+27.03.2022 13:33:23; endTurn; received; time: 48
+27.03.2022 13:34:17; playerMove; received; time: 16
+27.03.2022 13:34:19; playerLandedState; received; time: 19
+27.03.2022 13:34:19; endTurn; received; time: 18
+27.03.2022 13:34:22; buyStreet; received; time: 0
+27.03.2022 13:34:22; endBuy; received; time: 0
+27.03.2022 13:34:24; playerMove; received; time: 18
+27.03.2022 13:34:27; playerLandedState; received; time: 16
+27.03.2022 13:34:27; endTurn; received; time: 28
+27.03.2022 13:34:44; playerMove; received; time: 15
+27.03.2022 13:34:46; playerLandedState; received; time: 7
+27.03.2022 13:34:46; endTurn; received; time: 29
+27.03.2022 13:34:48; buyStreet; received; time: 0
+received; time: 0
+27.03.2022 13:34:50; playerMove; received; time: 7
+27.03.2022 13:34:51; playerLandedState; received; time: 21
+27.03.2022 13:34:51; endTurn; received; time: 16
+27.03.2022 13:34:53; playerMove; received; time: 21
+27.03.2022 13:34:54; playerLandedState; received; time: 11
+27.03.2022 13:34:54; endTurn; received; time: 22
+27.03.2022 13:34:55; playerMove; received; time: 11
+27.03.2022 13:34:58; playerLandedState; received; time: 30
+27.03.2022 13:34:58; endTurn; received; time: 28
+27.03.2022 13:35:00; playerMove; received; time: 27
+27.03.2022 13:35:02; playerLandedState; received; time: 9
+27.03.2022 13:35:02; endTurn; received; time: 17
+27.03.2022 13:35:03; playerMove; received; time: 22
+27.03.2022 13:35:07; playerLandedState; received; time: 15
+27.03.2022 13:35:07; endTurn; received; time: 21
+27.03.2022 13:35:08; buyStreet; received; time: 0
+received; time: 0
+27.03.2022 13:35:13; leaveFromGame; received; time: 83
+27.03.2022 13:35:14; removePL; received; time: 24
+27.03.2022 13:43:32; login; user; time: 1183
+27.03.2022 13:43:38; rooms; room; time: 78
+27.03.2022 13:43:44; createRoom; room; time: 83
+27.03.2022 13:43:44; updateLobby; specificLobby; time: 26
+specificLobby; time: 0
+27.03.2022 13:43:44; getSpecificLobbyByPlayer; specificLobby; time: 23
+specificLobby; time: 0
+27.03.2022 13:44:12; getSpecificLobbyByPlayer; specificLobby; time: 19
+27.03.2022 13:44:12; launchGame; room; time: 107
+27.03.2022 13:44:14; playerMove; received; time: 28
+27.03.2022 13:44:17; playerLandedState; received; time: 35
+27.03.2022 13:44:18; buyStreet; received; time: 466
+27.03.2022 13:44:19; endBuy; received; time: 0
+27.03.2022 13:44:19; endTurn; received; time: 27
+27.03.2022 13:46:18; leaveFromGame; received; time: 122
+27.03.2022 13:46:19; removePL; received; time: 13
+05.04.2022 13:05:13; login; user; time: 2101
+05.04.2022 13:05:25; login; 

@@ -1,0 +1,562 @@
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csprojAssemblyReference.cache
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\khamp\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+C:\Users\khamp\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+\\192.168.1.99\Users\Kuba\Škola\Bakalarka\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+\\192.168.1.99\Users\Kuba\Škola\Bakalarka\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+\\192.168.1.99\Users\Kuba\Škola\Bakalarka\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+\\192.168.1.99\Users\Kuba\Škola\Bakalarka\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+\\192.168.1.99\Users\Kuba\Škola\Bakalarka\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+\\192.168.1.99\Users\Kuba\Škola\Bakalarka\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Jakub\Desktop\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\Jakub\Desktop\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khamp\OneDrive\Plocha\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+C:\Users\Jakub\Desktop\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+D:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.xml
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+D:\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+E:\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_1.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_2.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_3.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_4.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_5.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\BlackDice\dice_6.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Board\monopolyBoard.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\blue.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\green.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\red.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Figures\yellow.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\File.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Fonts\ComicSansMS.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\moneyFont.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\Players\template.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_1.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_2.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_3.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_4.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_5.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Content\WhiteDice\dice_6.xnb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\AssetManagementBase.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Cyotek.Drawing.BitmapFont.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\FontStashSharp.MonoGame.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Myra.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\StbImageSharp.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\StbTrueTypeSharp.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Bakalarka\CD\Projekt\Monopoly\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CopyComplete
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
+D:\Bakalarka\CD\Projekt\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.genruntimeconfig.cache

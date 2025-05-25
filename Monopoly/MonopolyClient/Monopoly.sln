@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monopoly", "Monopoly.csproj", "{ADE947C8-05D3-46C2-8C05-73E79D9CCDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE947C8-05D3-46C2-8C05-73E79D9CCDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE947C8-05D3-46C2-8C05-73E79D9CCDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE947C8-05D3-46C2-8C05-73E79D9CCDA3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE947C8-05D3-46C2-8C05-73E79D9CCDA3}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBABE251-9FCE-4403-9EC6-21C1D5C81DD1}
+	EndGlobalSection
+EndGlobal

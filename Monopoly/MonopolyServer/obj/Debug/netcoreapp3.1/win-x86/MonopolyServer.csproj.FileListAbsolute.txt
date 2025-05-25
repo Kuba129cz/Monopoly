@@ -1,0 +1,749 @@
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.exe
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.deps.json
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.runtimeconfig.json
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.pdb
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\BouncyCastle.Crypto.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Google.Protobuf.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Compression.LZ4.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Hash.xxHash.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MySql.Data.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Ubiety.Dns.Core.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Zstandard.Net.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.Common.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Permissions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Windows.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.CSharp.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.VisualBasic.Core.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.VisualBasic.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.Registry.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.AppContext.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Buffers.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Concurrent.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Immutable.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.NonGeneric.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Specialized.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.Annotations.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.DataAnnotations.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Configuration.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Console.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Core.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.Common.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.DataSetExtensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Contracts.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Debug.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Process.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.StackTrace.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Tools.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.TraceSource.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Tracing.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Dynamic.Runtime.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.Calendars.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.Brotli.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.FileSystem.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.ZipFile.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.AccessControl.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.Watcher.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.IsolatedStorage.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.MemoryMappedFiles.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Pipes.AccessControl.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Pipes.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Expressions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Parallel.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Queryable.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Memory.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Http.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.HttpListener.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Mail.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.NameResolution.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.NetworkInformation.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Ping.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Requests.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Security.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.ServicePoint.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Sockets.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebClient.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebHeaderCollection.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebProxy.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebSockets.Client.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebSockets.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Numerics.Vectors.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Numerics.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ObjectModel.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.DataContractSerialization.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Uri.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Xml.Linq.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Xml.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.DispatchProxy.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.Lightweight.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Metadata.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.TypeExtensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.Reader.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.ResourceManager.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.Writer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Handles.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Intrinsics.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Loader.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Numerics.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Json.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Xml.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.WindowsRuntime.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.AccessControl.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Claims.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Cng.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Csp.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Encoding.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Primitives.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Principal.Windows.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Principal.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.SecureString.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ServiceModel.Web.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ServiceProcess.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.CodePages.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encodings.Web.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Json.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.RegularExpressions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Channels.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Overlapped.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Parallel.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Thread.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.ThreadPool.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Timer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Transactions.Local.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Transactions.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ValueTuple.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Web.HttpUtility.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Web.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Windows.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.Linq.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.ReaderWriter.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.Serialization.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XDocument.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.XDocument.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XmlDocument.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XmlSerializer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\WindowsBase.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorlib.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\netstandard.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\SOS_README.md
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.CoreLib.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-console-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l1-2-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l2-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-string-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-util-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clrcompression.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clretwrc.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clrjit.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\coreclr.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\dbgshim.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\hostfxr.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\hostpolicy.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordaccore.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.21.35901.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordbi.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorrc.debug.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorrc.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\ucrtbase.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.dll
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.pdb
+C:\Users\Jakub\Desktop\Monopoly\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.genruntimeconfig.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.exe
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.deps.json
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.runtimeconfig.json
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.runtimeconfig.dev.json
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.pdb
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\BouncyCastle.Crypto.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Google.Protobuf.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Compression.LZ4.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Compression.LZ4.Streams.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Hash.xxHash.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.SystemEvents.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MySql.Data.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Ubiety.Dns.Core.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Zstandard.Net.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Newtonsoft.Json.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Configuration.ConfigurationManager.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.Common.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.ProtectedData.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Permissions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Windows.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.CSharp.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.VisualBasic.Core.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.VisualBasic.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.Registry.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.AppContext.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Buffers.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Concurrent.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Immutable.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.NonGeneric.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Specialized.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.Annotations.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.DataAnnotations.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.EventBasedAsync.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.TypeConverter.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Configuration.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Console.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Core.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.Common.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.DataSetExtensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Contracts.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Debug.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.DiagnosticSource.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.FileVersionInfo.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Process.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.StackTrace.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Tools.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.TraceSource.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Tracing.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Dynamic.Runtime.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.Calendars.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.Brotli.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.FileSystem.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.ZipFile.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.AccessControl.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.DriveInfo.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.Watcher.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.IsolatedStorage.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.MemoryMappedFiles.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Pipes.AccessControl.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Pipes.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.UnmanagedMemoryStream.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Expressions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Parallel.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Queryable.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Memory.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Http.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.HttpListener.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Mail.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.NameResolution.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.NetworkInformation.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Ping.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Requests.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Security.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.ServicePoint.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Sockets.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebClient.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebHeaderCollection.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebProxy.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebSockets.Client.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebSockets.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Numerics.Vectors.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Numerics.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ObjectModel.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.DataContractSerialization.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Uri.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Xml.Linq.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Xml.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.DispatchProxy.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.ILGeneration.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.Lightweight.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Metadata.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.TypeExtensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.Reader.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.ResourceManager.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.Writer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.CompilerServices.VisualC.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Handles.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Intrinsics.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Loader.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Numerics.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Formatters.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Json.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Xml.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.WindowsRuntime.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.AccessControl.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Claims.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Algorithms.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Cng.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Csp.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Encoding.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.OpenSsl.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Primitives.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.X509Certificates.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Principal.Windows.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Principal.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.SecureString.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ServiceModel.Web.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ServiceProcess.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.CodePages.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encodings.Web.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Json.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.RegularExpressions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Channels.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Overlapped.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Dataflow.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Extensions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Parallel.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Thread.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.ThreadPool.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Timer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Transactions.Local.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Transactions.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ValueTuple.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Web.HttpUtility.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Web.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Windows.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.Linq.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.ReaderWriter.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.Serialization.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XDocument.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.XDocument.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XmlDocument.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XmlSerializer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\WindowsBase.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorlib.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\netstandard.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\SOS_README.md
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.CoreLib.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-console-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-debug-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l1-2-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l2-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-handle-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-heap-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-localization-l1-2-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-memory-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-profile-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-string-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-synch-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-synch-l1-2-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-util-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-math-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-private-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-process-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-string-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-time-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clrcompression.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clretwrc.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clrjit.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\coreclr.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\dbgshim.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\hostfxr.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\hostpolicy.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordaccore.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.21.35901.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordbi.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorrc.debug.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorrc.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\ucrtbase.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.AssemblyInfoInputs.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.AssemblyInfo.cs
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.CoreCompileInputs.cache
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.CopyComplete
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.dll
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.pdb
+E:\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.genruntimeconfig.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.exe
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.deps.json
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.runtimeconfig.json
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.runtimeconfig.dev.json
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MonopolyServer.pdb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\BouncyCastle.Crypto.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Google.Protobuf.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Compression.LZ4.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Compression.LZ4.Streams.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\K4os.Hash.xxHash.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\MySql.Data.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Ubiety.Dns.Core.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Zstandard.Net.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Newtonsoft.Json.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Configuration.ConfigurationManager.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.Common.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Permissions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Windows.Extensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.CSharp.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.VisualBasic.Core.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.VisualBasic.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.Win32.Registry.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.AppContext.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Buffers.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Concurrent.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Immutable.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.NonGeneric.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.Specialized.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Collections.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.Annotations.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.TypeConverter.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ComponentModel.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Configuration.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Console.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Core.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.Common.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.DataSetExtensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Data.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Contracts.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Debug.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Process.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.StackTrace.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Tools.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.TraceSource.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Diagnostics.Tracing.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Drawing.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Dynamic.Runtime.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.Calendars.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.Extensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Globalization.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.Brotli.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.FileSystem.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.ZipFile.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Compression.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.Watcher.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.FileSystem.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.IsolatedStorage.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.MemoryMappedFiles.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Pipes.AccessControl.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.Pipes.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.IO.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Expressions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Parallel.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.Queryable.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Linq.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Memory.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Http.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.HttpListener.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Mail.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.NameResolution.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.NetworkInformation.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Ping.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Requests.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Security.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.ServicePoint.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.Sockets.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebClient.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebHeaderCollection.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebProxy.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebSockets.Client.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.WebSockets.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Net.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Numerics.Vectors.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Numerics.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ObjectModel.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.DataContractSerialization.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Uri.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Xml.Linq.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.Xml.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.DispatchProxy.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Emit.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Extensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Metadata.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.TypeExtensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Reflection.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.Reader.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.ResourceManager.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Resources.Writer.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Extensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Handles.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.InteropServices.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Intrinsics.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Loader.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Numerics.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Json.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.Xml.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.Serialization.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.WindowsRuntime.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Runtime.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.AccessControl.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Claims.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Cng.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Csp.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Encoding.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.Primitives.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Principal.Windows.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.Principal.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.SecureString.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Security.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ServiceModel.Web.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ServiceProcess.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.CodePages.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.Extensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encoding.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Encodings.Web.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.Json.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Text.RegularExpressions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Channels.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Overlapped.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Extensions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.Parallel.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Tasks.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Thread.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.ThreadPool.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.Timer.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Threading.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Transactions.Local.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Transactions.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.ValueTuple.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Web.HttpUtility.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Web.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Windows.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.Linq.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.ReaderWriter.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.Serialization.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XDocument.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.XDocument.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XmlDocument.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XmlSerializer.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Xml.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\WindowsBase.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorlib.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\netstandard.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\SOS_README.md
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\System.Private.CoreLib.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-console-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-debug-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l1-2-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-file-l2-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-handle-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-heap-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-localization-l1-2-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-memory-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-profile-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-string-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-synch-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-synch-l1-2-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-core-util-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-math-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-private-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-process-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-string-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-time-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clrcompression.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clretwrc.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\clrjit.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\coreclr.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\dbgshim.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\hostfxr.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\hostpolicy.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordaccore.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.21.35901.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscordbi.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorrc.debug.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\mscorrc.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\bin\Debug\netcoreapp3.1\win-x86\ucrtbase.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.AssemblyReference.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.AssemblyInfoInputs.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.AssemblyInfo.cs
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.CoreCompileInputs.cache
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.csproj.CopyComplete
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.dll
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.pdb
+D:\Nová složka\Bakalarka\Monopoly (aplikace)\MonopolyServer\obj\Debug\netcoreapp3.1\win-x86\MonopolyServer.genruntimeconfig.cache
